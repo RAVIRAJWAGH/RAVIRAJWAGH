@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RAVIRAJWAGH
 - 👀 I’m interested in Data Science / Machine Learning
-- 🌱 I’m currently learning Machine Learning at Symbiosis skills and professional university, Pune.
-- 💞️ I am looking to collaborate with peaple from data analytics field...
+- 🌱 I’m an Ex-employee working as a Data Analyst at RacksonsIT Developers Pvt Ltd.
+- 🏷️ Done a Certification course in Machine Learning at Symbiosis Skills and Professional University, Pune.
+- 💞️ I want to collaborate with people from the data Science field...
 - 📫 How to reach me ...
 - Linked in - https://www.linkedin.com/in/raviraj-wagh-66235919b/
 - E-Mail    - waghraj5622@gmail.com

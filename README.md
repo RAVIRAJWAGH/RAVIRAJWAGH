@@ -5,14 +5,11 @@
 - 🏷️ Done a Certification course in Machine Learning at Symbiosis Skills and Professional University, Pune.
 - 💞️ I want to collaborate with people from the data science field...
 - 📫 How to reach me ...
-- Linked in - https://www.linkedin.com/in/raviraj-wagh-66235919b/
 - E-Mail    - waghraj5622@gmail.com
-
-🔭 I’m currently working on Generative AI & Exploring Data Science<br>🤝 I’m looking for help with Generative AI<br>🌱 I’m currently learning RAG & Fine Tuning<br>💬 Ask me about Data Science<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-ekande/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravirajwagh/) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)

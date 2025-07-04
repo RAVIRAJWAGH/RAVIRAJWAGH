@@ -1,8 +1,7 @@
 ## 💫 About Me:
 - 👋 Hi, I’m @RAVIRAJWAGH
-- 👀 I’m interested in Data Science / Machine Learning
-- 🌱 I’m an Ex-employee working as a Data Analyst at RacksonsIT Developers Pvt Ltd
-- 🏷️ Done a Certification course in Machine Learning at Symbiosis Skills and Professional University, Pune.
+- 👀 Passion for Data Science
+- 🌱 Working as Associate software developer
 - 💞️ I want to collaborate with people from the data science field...
 - 📫 How to reach me ...
 - E-Mail    - waghraj5622@gmail.com

@@ -20,7 +20,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=RAVIRAJWAGH&theme=merko&show_icons=true&hide_border=false&count_private=true)&nbsp ![](https://github-readme-streak-stats.herokuapp.com/?user=RAVIRAJWAGH&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RAVIRAJWAGH&theme=merko&show_icons=true&hide_border=false&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=RAVIRAJWAGH&theme=merko&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAVIRAJWAGH&theme=merko&show_icons=true&hide_border=false&layout=compact)
 

@@ -1,11 +1,10 @@
-## 💫 About Me:
-- 👋 Hi, I’m @RAVIRAJWAGH
-- 👀 Passion for Data Science
-- 🌱 Working as Associate software developer
-- 💞️ I want to collaborate with people from the data science field...
-- 📫 How to reach me ...
-- E-Mail    - waghraj5622@gmail.com
-
+## About Me:
+- Hi, I’m @RAVIRAJWAGH
+- Passion for Data Science
+- Working as Associate software developer
+- I want to collaborate with people from the data science field...
+- How to reach me ...
+- E-Mail    - ravirajwagh.official@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravirajwagh/) 
